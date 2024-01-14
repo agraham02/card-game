@@ -1,0 +1,19 @@
+Deck width = 594 x 152: translate = 221px
+Deck width = 676 x 152: translate = 262px
+Deck width = 758 x 152: translate = 303px
+
+
+Deck width = 594 x 152: translate = 221px
+Deck width = 594 x 152: translate = 221px
+Deck width = 594 x 152: translate = 221px
+
+
+y = mx + b
+
+-33
+102
+m = 41
+
+-33 = 41 + x
+
+y = 41(x) - 74
